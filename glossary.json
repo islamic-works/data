@@ -1,6 +1,6 @@
 {
-   "version": "201907080000",
-   "glossary": [
+   "version": "201907130000",
+   "items": [
       { "id": 1, "name": "Adhan", "translate": "أذان", "description": "A chamada para a oração"
       },
       { "id": 2, "name": "Ahadith [sing. Hadith]", "translate": "أحاديث [sing. حديث]", "description": "Os provérbios e tradições do Profeta Muhammad (a paz e as benção de Allah estejam sobre ele)."
@@ -40,6 +40,14 @@
       { "id": 19, "name": "BismilLah", "translate": "بسم الله", "description": "Em nome de Allah."
       },
       { "id": 20, "name": "BismilLahi Ar-Rahman Ar-Raheem", "translate": "بسم الله الرحمن الرحيم", "description": "Em nome de Allah, o Clemente, o Misericordioso"
-      }
+      },
+      { "id": 21, "name": "Abdul", "aliases": ["Abdal","Abdel","Abdil","Abdol","Abdool","Abdoul"], "translate": "عبد", "description": "Comumente usado para nomes próprios compostos por dois termos, separados por hífen ou mesmo espaço, exemplos, Abdul Said, Abdul-Majid significa \"Servo de(o)\" ou mesmo \"Escravo de\", a variação de escrita se dá devido aos dialetos"  },
+      { "id": 22, "name": "Dawn", "aliases": ["Morning"], "related": ["Fajr"],"translate":"","description": "Amanhecer ou Madrugada, term em inglês que identifica a hora que se deve iniciar a oração que chamada Fajr, o Fajr deve ser feito até o surgimento do sol, "},
+      { "id": 23, "name": "Fajr", "aliases": ["amanhecer"], "translate":"", "description": "O Termo é usado para definir a oração do amanhecer. Primeira oração do dia"},
+      { "id": 24, "name":"Duhr", "aliases": ["meio dia"], "translate":"", "description": "O Termo é usado para definir a oração do meio dia, segunda oração do dia"},
+      { "id": 25, "name":"'Asr", "aliases": ["Tarde"], "translate":"", "description": "O Termo é usado para definir a oração da tarde, Terceira Oração do dia"},
+      { "id": 26, "name": "Maghrib", "aliases": ["Crepúsculo"], "description":"O Termo é usado para definir a oração do crepúsculo, Quarta oração do dia"},
+      { "id": 27, "name": "`Isha", "aliases": ["tarde da noite"], "translate": "", "description": "O termo é usado para definir a oração da tarde da noite, Quinta oração do dia)" }
+
    ]
 }
