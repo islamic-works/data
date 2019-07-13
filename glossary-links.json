@@ -4,11 +4,18 @@
       "way": [
          {
             "from": "glossary",
-            "to": {"module":"praytimes"}
+            "to": {
+               "module": "praytimes"
+            }
          },
          {
             "from": "praytimes",
-            "to": {"url":"glossary/item","params":["term"]}
+            "to": {
+               "url": "glossary/item",
+               "params": [
+                  "term"
+               ]
+            }
          }
       ]
    }
