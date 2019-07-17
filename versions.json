@@ -1,7 +1,8 @@
 [
-   { "data": "version", "version": "201907130000"},
-   { "data": "glossary", "version": "201907130000"},
-   { "data": "glossary-links", "version": "201907130000"},
-   { "data": "sponsors", "version": "201907130000"},
-   { "data": "team", "version": "201907130000"}
+   { "data": "geral"          , "version": 201907180000},
+   { "data": "rss-reader"     , "version": 201907180000},
+   { "data": "glossary"       , "version": 201907130000},
+   { "data": "glossary-links" , "version": 201907130000},
+   { "data": "sponsors"       , "version": 201907130000},
+   { "data": "team"           , "version": 201907130000}
 ]
