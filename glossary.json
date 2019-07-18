@@ -19,7 +19,7 @@
       },
       { "id": 9, "name": "Allahu Akbar", "translate": "الله أكبر", "description": "Deus é o Maior"
       },
-      { "id": 10, "name": "`Alim [pl. 'Ulama']", "translate": "عالِم [pl.علماء]", "description": "Um estudioso de qualquer área do conhecimento. No contexto do Fórum Islâmico, é a conotação de um erudito religioso."
+      { "id": 10, "name": "`Alim", "plural": "'Ulama'","translate": "علماء", "description": "Um estudioso de qualquer área do conhecimento. No contexto do Fórum Islâmico, é a conotação de um erudito religioso."
       },
       { "id": 11, "name": "Ansar", "translate": "أنصار", "description": "Literalmente, significa \"ajudantes\". Na história islâmica, Ansar eram os partidários do profeta Muhammad (a paz e as bençãos de Allah estejam sobre ele), que saudou os muçulmanos de Madina."
       },
@@ -31,7 +31,7 @@
       },
       { "id": 15, "name": "A`udhubilLah", "translate": "أعوذ بالله", "description": "Eu busco refúgio em Deus"
       },
-      { "id": 16, "name": "Ayah [pl. Ayat]", "translate": "آية [pl. آيات]", "description": "Literalmente, significa \"um sinal\". Um versículo do Alcorão Sagrado."
+      { "id": 16, "name": "Ayah", "plural": "Ayat", "translate": "آيات", "description": "Literalmente, significa \"um sinal\". Um versículo do Alcorão Sagrado."
       },
       { "id": 17, "name": "Barak Allahu Feekum", "translate": "بارك الله فيكم", "description": "Que Deus te abençoe."
       },
@@ -47,7 +47,17 @@
       { "id": 24, "name":"Duhr", "aliases": ["meio dia"], "translate":"", "description": "O Termo é usado para definir a oração do meio dia, segunda oração do dia"},
       { "id": 25, "name":"'Asr", "aliases": ["Tarde"], "translate":"", "description": "O Termo é usado para definir a oração da tarde, Terceira Oração do dia"},
       { "id": 26, "name": "Maghrib", "aliases": ["Crepúsculo"], "description":"O Termo é usado para definir a oração do crepúsculo, Quarta oração do dia"},
-      { "id": 27, "name": "`Isha", "aliases": ["tarde da noite"], "translate": "", "description": "O termo é usado para definir a oração da tarde da noite, Quinta oração do dia)" }
-
+      { "id": 27, "name": "`Isha", "aliases": ["tarde da noite"], "translate": "", "description": "O termo é usado para definir a oração da tarde da noite, Quinta oração do dia)" },
+      { "id": 28, "name": "rak´aa", "aliases": [], "translate": "", "description": "Unidades de oração"},
+      { "id": 29, "name": "teshahhud", "aliases": ["Attahiyat"], "translate": "تَشَهُّد‎", "related": "rak'aa", "description": "é a unidade da oração, que o muçulmano senta no chão em direção a quipla, glorifica a Allah e faz a saudação <Salawat> a Mohamed", "wikipedia": "https://en.wikipedia.org/wiki/Tashahhud"},
+      { "id": 30, "name": "Al-Tahiat", "aliases": [], "translate": "", "description": " "},
+      { "id": 31, "name": "Tajwid", "translate": "(تجويد)", "pronounce":"taǧwīd","IPA":"tædʒˈwiːd", "wikipedia":"https://pt.wikipedia.org/wiki/Tajwid", "description": "Forma Correta de ler o alcorão em voz alta, significa locução"},
+      { "id": 32, "singular": "Ayah", "name": "Ayat", "translate": "آيات", "description": "Literalmente, significa \"sinais\". Mais de um versículo do Alcorão Sagrado."
+      },
+      { "id": 33, "singular": "`Alim", "name": "'Ulama'", "translate": "علماء", "description": "Estudiosos de qualquer área do conhecimento. No contexto do Fórum Islâmico, é a conotação de um erudito religioso."
+      },
+      {"id": 34,"name":"Salawat", "singular": "Salat", "description": "é uma frase especial em Arabe que contem a saudação ao profeta do Islam. é um recitação que é pronunciada durante as orações obrigatórias (tashahhud) e também quando o nome de Mohamed é mencionado", "wikipedia": ""},
+      {"id": 35, "name": "Qyam", "description":"Oração noturna recomendada, a ser feita pela madrugada. Siginifica literalmente \"ficar em pé\""},
+      {"id": 36, "name": "Salat", "plural": "Salawat", "translate": "صلاة", "description": "Oração", "root": ["saad", "laam", "waw"], "rootTranslate": "ص.ل. و"}
    ]
 }
