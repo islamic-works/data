@@ -49,15 +49,22 @@
       { "id": 26, "name": "Maghrib", "aliases": ["Crepúsculo"], "description":"O Termo é usado para definir a oração do crepúsculo, Quarta oração do dia"},
       { "id": 27, "name": "`Isha", "aliases": ["tarde da noite"], "translate": "", "description": "O termo é usado para definir a oração da tarde da noite, Quinta oração do dia)" },
       { "id": 28, "name": "rak´aa", "aliases": [], "translate": "", "description": "Unidades de oração"},
-      { "id": 29, "name": "teshahhud", "aliases": ["Attahiyat"], "translate": "تَشَهُّد‎", "related": "rak'aa", "description": "é a unidade da oração, que o muçulmano senta no chão em direção a quipla, glorifica a Allah e faz a saudação <Salawat> a Mohamed", "wikipedia": "https://en.wikipedia.org/wiki/Tashahhud"},
+      { "id": 29, "name": "teshahhud", "aliases": ["Attahiyat"], "translate": "تَشَهُّد‎", "related": "rak'aa", "description": "é a unidade da oração, que o muçulmano senta no chão em direção a quipla, glorifica a Allah e faz a saudação <Salawat> a Mohamed", "reference": "https://en.wikipedia.org/wiki/Tashahhud"},
       { "id": 30, "name": "Al-Tahiat", "aliases": [], "translate": "", "description": " "},
-      { "id": 31, "name": "Tajwid", "translate": "(تجويد)", "pronounce":"taǧwīd","IPA":"tædʒˈwiːd", "wikipedia":"https://pt.wikipedia.org/wiki/Tajwid", "description": "Forma Correta de ler o alcorão em voz alta, significa locução"},
+      { "id": 31, "name": "Tajwid", "translate": "(تجويد)", "pronounce":"taǧwīd","IPA":"tædʒˈwiːd", "reference":"https://pt.wikipedia.org/wiki/Tajwid", "description": "Forma Correta de ler o alcorão em voz alta, significa locução"},
       { "id": 32, "singular": "Ayah", "name": "Ayat", "translate": "آيات", "description": "Literalmente, significa \"sinais\". Mais de um versículo do Alcorão Sagrado."
       },
       { "id": 33, "singular": "`Alim", "name": "'Ulama'", "translate": "علماء", "description": "Estudiosos de qualquer área do conhecimento. No contexto do Fórum Islâmico, é a conotação de um erudito religioso."
       },
-      {"id": 34,"name":"Salawat", "singular": "Salat", "description": "é uma frase especial em Arabe que contem a saudação ao profeta do Islam. é um recitação que é pronunciada durante as orações obrigatórias (tashahhud) e também quando o nome de Mohamed é mencionado", "wikipedia": ""},
+      {"id": 34,"name":"Salawat", "singular": "Salat", "description": "é uma frase especial em Arabe que contem a saudação ao profeta do Islam. é um recitação que é pronunciada durante as orações obrigatórias (tashahhud) e também quando o nome de Mohamed é mencionado", "reference": ""},
       {"id": 35, "name": "Qyam", "description":"Oração noturna recomendada, a ser feita pela madrugada. Siginifica literalmente \"ficar em pé\""},
-      {"id": 36, "name": "Salat", "plural": "Salawat", "translate": "صلاة", "description": "Oração", "root": ["saad", "laam", "waw"], "rootTranslate": "ص.ل. و"}
+      {"id": 36, "name": "Salat", "plural": "Salawat", "translate": "صلاة", "description": "Oração", "root": ["saad", "laam", "waw"], "rootTranslate": "ص.ل. و"},
+      {"id": 37, "name": "Zawall", "related": "Istiwa", "description": "Significa literalmente o tempo em que o sol se afasta do seu meridiano central e não o tempo em que está no seu meridiano, como comumente equivocado. Zawal é o momento em que Zuhr começa e não o tempo proibido (ver Radd al-Muhtar).", "reference": "https://islamqa.org/hanafi/qibla-hanafi/35644" },
+      {"id": 38, "name": "Istiwa", "description": "é a época em que o sol está no auge mais alto ao meio-dia, quando é inadmissível realizar a oração. As pessoas se referem erroneamente a isto como o tempo de zawal.", "reference": "https://islamqa.org/hanafi/qibla-hanafi/35644"},
+      {"id": 39, "name": "Radd al-Muhtar ala al-Dur al-Mukhta", "translate": "رد المحتار على الدر المختار‎","description": "é um livro sobre a jurisprudência islâmica do erudito islâmico do século XVIII Allamah Sayyid Muhammad Amin ibn Abidin ash-Shami", "reference": "https://en.wikipedia.org/wiki/Radd_al-Muhtar_ala_al-Dur_al-Mukhtar"},
+    {"id": 40, "name": "Tafsir", "translate": "تفسير‎", "description": "literalmente significa  'interpretação', é a palavra Arabe para exegese, usualmente do alcorão.", "reference": "https://en.wikipedia.org/wiki/Tafsir"},
+    {"id": 41, "name": "Mufassir", "translate":"مُفسّر", "plural": " مفسّرون"‎, "description":"romanizado: mufassirūn). É o autor de Tafsir Alcoramico (Exegesse Alcoramica) ele tenta prover elucidações, eplanações, interpretações, contextos e comentários para clarear o entendimento e convicções dos designos de Deus."},
+    {"id": 42, "name": "mufassirūn", "related": "Mufassir"},
+    {"id": 43, "name": "Tafsīr", "related": "Tafsir"}
    ]
 }
