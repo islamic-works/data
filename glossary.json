@@ -1,5 +1,5 @@
 {
-   "version": "201907130000",
+   "version": "201907210000",
    "items": [
       { "id": 1, "name": "Adhan", "translate": "أذان", "description": "A chamada para a oração"
       },
@@ -63,7 +63,7 @@
       {"id": 38, "name": "Istiwa", "description": "é a época em que o sol está no auge mais alto ao meio-dia, quando é inadmissível realizar a oração. As pessoas se referem erroneamente a isto como o tempo de zawal.", "reference": "https://islamqa.org/hanafi/qibla-hanafi/35644"},
       {"id": 39, "name": "Radd al-Muhtar ala al-Dur al-Mukhta", "translate": "رد المحتار على الدر المختار‎","description": "é um livro sobre a jurisprudência islâmica do erudito islâmico do século XVIII Allamah Sayyid Muhammad Amin ibn Abidin ash-Shami", "reference": "https://en.wikipedia.org/wiki/Radd_al-Muhtar_ala_al-Dur_al-Mukhtar"},
     {"id": 40, "name": "Tafsir", "translate": "تفسير‎", "description": "literalmente significa  'interpretação', é a palavra Arabe para exegese, usualmente do alcorão.", "reference": "https://en.wikipedia.org/wiki/Tafsir"},
-    {"id": 41, "name": "Mufassir", "translate":"مُفسّر", "plural": " مفسّرون"‎, "description":"romanizado: mufassirūn). É o autor de Tafsir Alcoramico (Exegesse Alcoramica) ele tenta prover elucidações, eplanações, interpretações, contextos e comentários para clarear o entendimento e convicções dos designos de Deus."},
+    {"id": 41, "name": "Mufassir", "translate":"مُفسّر", "plural": " مفسّرون", "description":"romanizado: mufassirūn). É o autor de Tafsir Alcoramico (Exegesse Alcoramica) ele tenta prover elucidações, eplanações, interpretações, contextos e comentários para clarear o entendimento e convicções dos designos de Deus."},
     {"id": 42, "name": "mufassirūn", "related": "Mufassir"},
     {"id": 43, "name": "Tafsīr", "related": "Tafsir"}
    ]
