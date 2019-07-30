@@ -1,0 +1,69 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "description": "",
+    "type": 0,
+    "iman": "",
+    "contact": [
+      {
+        "type": "email",
+        "value": "",
+        "person": ""
+      },
+      {
+        "type": "whatsapp",
+        "value": "",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "address": {
+      "full": "Endereço completo, ou detalhado em campos separados"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Caaba",
+    "description": "Mesquita Sagrada Local de peregrinação",
+    "type": 1,
+    "gps": {
+      "latitude":  21.4224829,
+      "longitude": 39.8240889,
+      "elevation": 17
+    }
+  },
+  {
+    "id": 2,
+    "type": 15,
+    "title": "Mussala Fortaleza",
+    "description": "Mussala Fortaleza",
+    "address": "Rua São Paulo, 1831, Jacarecanga, Fortaleza, CE, Brasil, CEP 60310-226",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": "Yahya"
+      }
+    ],
+    "gps": {
+      "latitude": -3.7214696,
+      "longitude": -38.5430259
+    }
+  },
+{
+  "id": 2,
+  "type": 50,
+  "title":"Curso Arduino Minas",
+  "description": "Cursos para Makers, Eletrônica, Programação e temas relacionados",
+  "address":  "R. José Alves Pereira, S/N, Aquiraz, CE, Brasil",
+  "gps":{
+      "latitude": -3.9242100850690402,
+      "longitude": -38.45365650951862
+  }
+}
+
+]
