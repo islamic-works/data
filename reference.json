@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "wikipedia",
+    "language": "en",
+    "url": "http://wikipedia.com",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "name": "",
+    "url": "https://islamqa.org"
+  }
+]
