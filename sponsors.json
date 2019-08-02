@@ -8,7 +8,7 @@
     "gps":{
       "latitude": -3.9242100850690402,
       "longitude": -38.45365650951862
-  }
+    }
   },
   {
     "id": 0,
@@ -18,7 +18,7 @@
     "url": "a",
     "address": "",
     "gps": {
-      "latitude": "",
+      "latitude": 0,
       "longitude": 0
     }
   }
