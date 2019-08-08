@@ -1,0 +1,11 @@
+[
+   { "data": "geral"          , "version": 201907240000},
+   { "data": "rss-reader"     , "version": 201907180000},
+   { "data": "glossary"       , "version": 201907220000},
+   { "data": "PrayTimes"      , "version": 201907222045},
+   { "data": "glossary-links" , "version": 201907130000},
+   { "data": "sponsors"       , "version": 201907130000},
+   { "data": "team"           , "version": 201907130000},
+   { "data": "compass"        , "version": 201907240000},
+   { "data": "mussala"        , "version": 201907240000}
+]

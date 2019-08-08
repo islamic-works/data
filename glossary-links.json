@@ -1,0 +1,15 @@
+[
+   {
+      "term": "farj",
+      "way": [
+         {
+            "from": "glossary",
+            "to": {"module":"praytimes"}
+         },
+         {
+            "from": "praytimes",
+            "to": {"url":"glossary/item","params":["term"]}
+         }
+      ]
+   }
+]

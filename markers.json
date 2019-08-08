@@ -1,0 +1,111 @@
+[
+  {
+    "id": 0,
+    "name": "",
+    "description": "",
+    "type": 0,
+    "iman": "",
+    "contact": [
+      {
+        "type": "email",
+        "value": "",
+        "person": ""
+      },
+      {
+        "type": "whatsapp",
+        "value": "",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "address": {
+      "full": "Endereço completo, ou detalhado em campos separados"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Caaba",
+    "description": "Mesquita Sagrada Local de peregrinação",
+    "type": 1,
+    "gps": {
+      "latitude": 21.4224829,
+      "longitude": 39.8240889,
+      "elevation": 17
+    }
+  },
+  {
+    "id": 2,
+    "type": 15,
+    "title": "Mussala Fortaleza",
+    "description": "Mussala Fortaleza",
+    "address": "Rua São Paulo, 1831, Jacarecanga, Fortaleza, CE, Brasil, CEP 60310-226",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": "Yahya"
+      }
+    ],
+    "gps": {
+      "latitude": -3.7214696,
+      "longitude": -38.5430259
+    }
+  },
+  {
+    "id": 3,
+    "type": 10,
+    "title": "Centro Islâmico do Brasil مسجد",
+    "description": "Centro Islâmico do Brasil مسجد",
+    "address": "SGAN 912 - Brasília, DF, 70297-400",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": -15.754327,
+      "longitude": -47.9193283
+    }
+  },
+  {
+    "id": 4,
+    "type": 10,
+    "title": "Centro Islâmico de Anápolis مسجد",
+    "description": "Centro Islâmico de Anápolis مسجد",
+    "address": "Av. Faiad Hanna, 59 - Cidade Jardim, Anápolis - GO, 75080-410",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": -16.4667296,
+      "longitude": -49.1266248
+    }
+  },
+  {
+    "id": 5,
+    "type": 10,
+    "title": "Centro Islâmico de Minas Gerais",
+    "description": "Centro Islâmico de Minas Gerais",
+    "address": "R. João Camilo de Oliveira Tôrres, 20 - Mangabeiras, Belo Horizonte - MG, 30210-260",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": -19.9273555,
+      "longitude": -43.9463325
+    }
+  }
+]
