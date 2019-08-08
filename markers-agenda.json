@@ -1,0 +1,48 @@
+[
+  {
+  "id": 1,
+  "period": {"start":10000000,"end":10000000},
+  "times": [
+    {
+      "name": "Fajr",
+      "times": {
+        "start": "",
+        "end": "duhr"
+      },
+      "instructions": ""
+    },
+    {
+      "name": "Duhr",
+      "times": {
+        "start": "12:00",
+        "end": "Asr"
+      },
+      "instructions": ""
+    },
+    {
+      "name": "Asr",
+      "times": {
+        "start": "12:00",
+        "end": "maghrib"
+      },
+      "instructions": ""
+    },
+    {
+      "name": "Maghrib",
+      "times": {
+        "start": "12:00",
+        "end": "isha"
+      },
+      "instructions": ""
+    },
+    {
+      "name": "Isha",
+      "times": {
+        "start": "12:00",
+        "end": "23:59"
+      },
+      "instructions": ""
+    }
+  ]
+  }
+]
