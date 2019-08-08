@@ -91,7 +91,10 @@
       {"id": 64, "name": "Kitab al-Umm", "description": ""}, 
       {"id": 65, "name": "madhab Shafi", "type": "madhab", "description": ""},
       {"id": 66, "name": "madhab de Imam Abu Hanifa", "type": "madhab", "description":""},
-      {"id": 67, "name": "Ibn Hisham", "type": "profile", "description": ""}
-
+      {"id": 67, "name": "Ibn Hisham", "type": "profile", "description": ""},
+      {"id": 68, "name": "fiqh", "type": "term", "description": "é o termo para jurisprudencia Islamica, é o processo pelo qual os juristas definem conjuntos de orientações, regras e regulamentações obtidas do Alcorão e pelos ensinamentos e modo de vida do Profeta Muhammad (ﷺ),  a Sunnah, a séculos, tem sido formulada e elaborada sobre sucessivas gerações de juristas, através de interpretações, analógias, consenços e pesquisas sistemáticas", "reference":"https://www.islamic-banking.com/knowledge/islamic-jurisprudence-fiqh"},
+      {"id": 69, "name": "sallallahu alayhi wa sallam", "related": "pbuh" ,"aliases": ["saws"], "description": "Saudação ao profeta em árabe Sallallahu Alayhi Wa Salaam (SAWS/ﷺ)", "reference": "https://www.learnreligions.com/islamic-abbreviation-pbuh-2004288"},
+      {"id": 70, "name": "pbuh", "related": "saws", "description": "peace be upon him, é a forma no inglês de se saudar o profeta sempre que seu nome é citado", "reference": "https://www.learnreligions.com/islamic-abbreviation-pbuh-2004288"},
+      {"name": "Durood", "translate": "درود‎", "aliases": "durūd", "related": "sawat", "description": "Etimologicamente tem origem no Urdu:  درود‎ (durūd). é a frase usada para saudar o profeta Muhammed (SAWS) quando mencionado em um texto ou conversa", "reference": ["https://en.wiktionary.org/wiki/durood", "http://www.islamicacademy.org/html/Dorood.htm"]}
    ]
 }
