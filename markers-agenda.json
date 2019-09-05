@@ -1,48 +1,54 @@
 [
   {
-  "id": 1,
-  "period": {"start":10000000,"end":10000000},
-  "times": [
-    {
-      "name": "Fajr",
-      "times": {
-        "start": "",
-        "end": "duhr"
-      },
-      "instructions": ""
+    "id": 1,
+    "period": {
+      "start": "2019-07-01",
+      "end": "2019-12-30"
     },
-    {
-      "name": "Duhr",
-      "times": {
-        "start": "12:00",
-        "end": "Asr"
+    "obs": "period start and end in time format yyyy-mm-dd for gregorian, for hegiria times use hyyyy-mm-dd, like h1039-10-01, h1040-04-30",
+    "type": 0,
+    "version": 201908161700,
+    "times": [
+      {
+        "name": "Fajr",
+        "times": {
+          "start": "",
+          "end": "duhr"
+        },
+        "instructions": ""
       },
-      "instructions": ""
-    },
-    {
-      "name": "Asr",
-      "times": {
-        "start": "12:00",
-        "end": "maghrib"
+      {
+        "name": "Duhr",
+        "times": {
+          "start": "12:00",
+          "end": "Asr"
+        },
+        "instructions": ""
       },
-      "instructions": ""
-    },
-    {
-      "name": "Maghrib",
-      "times": {
-        "start": "12:00",
-        "end": "isha"
+      {
+        "name": "Asr",
+        "times": {
+          "start": "12:00",
+          "end": "maghrib"
+        },
+        "instructions": ""
       },
-      "instructions": ""
-    },
-    {
-      "name": "Isha",
-      "times": {
-        "start": "12:00",
-        "end": "23:59"
+      {
+        "name": "Maghrib",
+        "times": {
+          "start": "12:00",
+          "end": "isha"
+        },
+        "instructions": ""
       },
-      "instructions": ""
-    }
-  ]
+      {
+        "name": "Isha",
+        "times": {
+          "start": "12:00",
+          "end": "23:59"
+        },
+        "instructions": ""
+      }
+    ]
   }
 ]

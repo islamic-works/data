@@ -107,5 +107,23 @@
       "latitude": -19.9273555,
       "longitude": -43.9463325
     }
+  },
+  {
+    "id": 6,
+    "type": 10,
+    "title": "Mussala dos Arabes - Fortaleza",
+    "description": "Mussala dos Arabes - Fortaleza",
+    "address": "R. Rocha Lima, 962, Aldeota, Fortaleza, CE, CEP 60135-000",
+    "contact": [
+      {
+        "type": "whatsapp",
+        "value": "(85) 99999-9999",
+        "person": ""
+      }
+    ],
+    "gps": {
+      "latitude": -3.7384641,
+      "longitude": -38.5158386
+    }
   }
 ]
